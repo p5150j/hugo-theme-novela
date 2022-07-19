@@ -1,5 +1,5 @@
 ---
-title: Generate 3D objects from images using RealityKit Object Capture
+title: Choi Holdings NFT platform 
 date: 2022-05-10T06:00:00.000+00:00
 hero: "https://arusimagesforsite.s3-us-west-2.amazonaws.com/app.radarrelay.com_ZRX_WETH.png"
 excerpt: In this approach, I will be using Apple's native tooling to Generate 3D objects
