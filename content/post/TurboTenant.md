@@ -15,11 +15,13 @@ authors:
 
 
 ## Tech stack:
-  |                |ASCII                          |HTML                         |
+  |Stack                |Infra                          |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
-  |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-  |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-  |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  |Ruby on Rails (migration)|Heroku (migration)           |SynapseFI            |
+  |Node.js          |AWS (EB, S3)            |Transunion API (IDxp)           |
+  |React         |Travis CI|Figma|
+  |Postgresql         |Redis|Jira / Confluence|
+
 
 
 ## My role as the {roles} @ {comapmy name}

@@ -15,11 +15,15 @@ authors:
 
 
 ## Tech stack:
-  |                |ASCII                          |HTML                         |
+  | Stack               |Infa                          |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
-  |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-  |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-  |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  |Java-spring|AWS (Custom AMI's, S3)            |Jira / Confluence            |
+  |Ruby on Rails          |Jenkins            |    Artifactory        |
+  |Node.js          |Cloudbees|Adobe CC|
+  |Angular        |Elasticsearch (ELK stack)||
+  |Backbone          |FFMPEG|
+  |MySQL          |RabbitMQ||
+
 
 
 ## My role as the {roles} @ {comapmy name}

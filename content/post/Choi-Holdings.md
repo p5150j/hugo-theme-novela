@@ -15,11 +15,13 @@ authors:
 
 
 ## Tech stack:
-  |                |ASCII                          |HTML                         |
+  | Stack               |Infra                         |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
-  |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-  |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-  |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  |Typescript Next.js MonoRepo|AWS (EKS, S3)            |Flow Blockchain            |
+  |Vue 3         |Docker / Teraform / GH actions            |Grafana, and Prometheus            |
+  |Postgresql          |Cypress protected branches|Verif KCY & Checkout.com for fiat tx|
+  |Swift          |Swagger|Jira / Confluence |
+  |Kotlin          || Figma|
 
 
 ## My role as the {roles} @ {comapmy name}

@@ -15,11 +15,16 @@ authors:
 
 
 ## Tech stack:
-  |                |ASCII                          |HTML                         |
+  |Stack                |Infra                          |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
-  |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-  |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-  |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  |Typescript, Graphql|AWS (EKS, S3, SageMaker)            |Bamboo HR API           |
+  |React          |Docker/Kubernetes            |VGS SOC2 |
+  |RDS          |Google cloud Gdocs API's| Jira / Confluence|
+  |          || Figma|
+  |          || Docusign SDK|
+
+
+  
 
 
 ## My role as the {roles} @ {comapmy name}

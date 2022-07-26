@@ -15,11 +15,12 @@ authors:
 
 
 ## Tech stack:
-  |                |ASCII                          |HTML                         |
+  |Stack                |Infra                          |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
-  |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-  |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-  |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  |Scala|Heoku            |Basecamp            |
+  |HAXE          |Jenkins  |            |
+  |Jquery / D3         |||
+  |MongoBD / Couchbase |||
 
 
 ## My role as the {roles} @ {comapmy name}
