@@ -42,7 +42,7 @@ As the VPE and Engineering Manager at Choi Holdings, my role revolved around cod
 
 
 ## Platform tooling
-Using as the [Nest.js](https://nestjs.com/) backend framework for a MonoRepo to create Rest API endpoints that are then consumed by [Vue](https://vuejs.org/) (for browser client) [Swift](https://developer.apple.com/swift/) (iOS client) [Kotlin](https://kotlinlang.org/) (android client). We used [Flow](https://www.onflow.org/) blockchain and the [Blocto](https://docs.blocto.app/) wallet for FUSD payments, [MetaMask](https://metamask.io/) with [Commerce.Coinbase](https://commerce.coinbase.com/?lang=en) for other crypto (eth, btc) payments, and [Checkout](https://www.checkout.com/) for fita-based payments and [Veriff](https://www.veriff.com/identity-verification) for KCY. 
+Using as the [Nest.js](https://nestjs.com/) backend framework for a MonoRepo to create Rest API endpoints that are then consumed by [Vue](https://vuejs.org/) (for browser client) [Swift](https://developer.apple.com/swift/) (iOS client) [Kotlin](https://kotlinlang.org/) (android client). We used [Flow](https://www.onflow.org/) blockchain and the [Blocto](https://docs.blocto.app/) wallet for FUSD payments, [MetaMask](https://metamask.io/) with [Commerce.Coinbase](https://commerce.coinbase.com/?lang=en) for other crypto (eth, btc) payments, and [Checkout](https://www.checkout.com/) for fita-based payments and [Veriff](https://www.veriff.com/identity-verification) for KYC. 
 
 ## KPI's
  - 1 week agile sprints with normalized Velocity

@@ -2,8 +2,7 @@
 title: "TiLT - Leave management "
 date: 2022-07-19T12:17:28-06:00
 hero: https://images.unsplash.com/photo-1535571393765-ea44927160be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
-excerpt: In this approach, I will be using Apple's native tooling to Generate 3D objects
-  from images using RealityKit Object Capture API.
+excerpt: As the CTO of TiLT, and founding engineer, my role has focused on building out core product offerings, building a sustainable development/product team, and defining the internal human operating system including agile frameworks, Orks, and KPIs.
 timeToRead: 9
 authors:
 - Patrick Ortell
@@ -11,8 +10,7 @@ authors:
 ---
 ---
 ## Company overview:
- [Handlebars templates](http://handlebarsjs.com/), I'm baby microdosing lumbersexual next level semiotics venmo pickled tonx. Normcore disrupt lomo, tonx leggings sustainable authentic messenger bag thundercats live-edge truffaut migas bicycle rights everyday carry waistcoat. Hella schlitz XOXO subway tile poutine chartreuse. Hammock la croix ramps austin coloring book. Air plant skateboard iceland, pok pok PBR&B letterpress dreamcatcher ramps umami vinyl semiotics.
-
+[TiLT](https://hellotilt.co/), is an inclusive B2B Leave Management Solution for every life-changing moment. Managing leave of absence within federal government laws (FMLA Family and Medical Leave Act) and leave of absence payroll compensation. The goal at TiLT was/is to make your leave of absence of any kind (maternity, major illness, death in family) a smooth process.
 
 ## Tech stack:
   |Stack                |Infra                          |Other tooling & 3rd party                         |
@@ -20,19 +18,25 @@ authors:
   |Typescript, Graphql|AWS (EKS, S3, SageMaker)            |Bamboo HR API           |
   |React          |Docker/Kubernetes            |VGS SOC2 |
   |RDS          |Google cloud Gdocs API's| Jira / Confluence|
-  |          || Figma|
+  |SageMaker Textract          || Figma|
   |          || Docusign SDK|
 
 
   
 
 
-## My role as the {roles} @ {comapmy name}
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## My role as the CTO @ TiLT
+As the CTO of TiLT, and founding engineer, my role was focused on building out core product offerings, building a sustainable development/product team, and defining the internal human operating system including agile frameworks, Orks, and KPIs.
 
 
-## Platform Architecture
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## Platform
+Creating GraphQL API'S with Node/Express Typescript to feed the frontend in React to solve for the follwing:
+- Company handbook ingestion 
+- Gather leave candidates' PII and employee info (payroll)
+- Generate all the necessary paperwork for FMLA leave
+- Scheduling timeline and calendar events for leave steps
+- Management HR leave metrics and HRIS integration 
+- Resource allocation for each leave type 
+- Return to work success steps
 
-## KPI's
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+
