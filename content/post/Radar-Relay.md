@@ -11,7 +11,7 @@ authors:
 ---
 ---
 ## Company overview:
- [Handlebars templates](http://handlebarsjs.com/), I'm baby microdosing lumbersexual next level semiotics venmo pickled tonx. Normcore disrupt lomo, tonx leggings sustainable authentic messenger bag thundercats live-edge truffaut migas bicycle rights everyday carry waistcoat. Hella schlitz XOXO subway tile poutine chartreuse. Hammock la croix ramps austin coloring book. Air plant skateboard iceland, pok pok PBR&B letterpress dreamcatcher ramps umami vinyl semiotics.
+ [RADAR Relay](https://radar.tech/), is a DeFi wallet-to-wallet trading platform. Users can trade directly from MetaMask, Ledger, Trezor, or mobile wallets using WalletConnect. RADAR RELAY sources orders from their own order book as well as 13 other trading venues to give users competitive trade prices. Offering a simplified GUI for those looking to get into the trading world and a robust [open source tool suite for automated algo trading](https://github.com/orgs/RadarTech/repositories). We also build an [LMS system](https://radar.tech/learn) for new comers to understand the web3 world. Radar was acquired [ Radar was acquired](https://medium.com/radartech/radar-blockcap-core-scientific-b09d338f9f19) by Blockcap & Core Scientific in late 2020/21  
 
 
 ## Tech stack:
@@ -30,8 +30,8 @@ authors:
 
 
 
-## My role as the {roles} @ {comapmy name}
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## My role as the VP of Engineering @ RADAR Relay
+Managed technical multi-cloud infrastructure and distributed engineering teams with 15 direct reports including 1:1s and professional development. Worked directly with the CTO on the technical roadmap and technical strategy. Collaborated with cross-functional teams (Product Owners, Finance, Quality Assurance, and Engineering to execute the technical roadmap, code standards and ensure that the technological resources met the company's short and long-term needs. Outlined the goals for research and development. Created timelines for the development and deployment of all technological services. Made executive decisions on behalf of the company's technological requirements. Act as a mentor to team members. Maintained consumer-focused systems and aided in the delivery of IT projects to market. Managed technology budgets and time frames. R&D work to stay on top of technology trends and developments. Ensured all technology practices adhere to SEC and OFAC regulatory standards.
 
 
 ## Platform Architecture
