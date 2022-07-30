@@ -2,8 +2,7 @@
 title: "Turbo Tenant -Digital landlord"
 date: 2022-07-19T12:14:24-06:00
 hero: https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
-excerpt: In this approach, I will be using Apple's native tooling to Generate 3D objects
-  from images using RealityKit Object Capture API.
+excerpt: In my role as the CTO Turbo Tenant I managed and recruited 9 fullstack engineers/direct reports including 1:1s and professional development.
 timeToRead: 9
 authors:
 - Patrick Ortell
@@ -11,7 +10,7 @@ authors:
 ---
 ---
 ## Company overview:
- [Handlebars templates](http://handlebarsjs.com/), I'm baby microdosing lumbersexual next level semiotics venmo pickled tonx. Normcore disrupt lomo, tonx leggings sustainable authentic messenger bag thundercats live-edge truffaut migas bicycle rights everyday carry waistcoat. Hella schlitz XOXO subway tile poutine chartreuse. Hammock la croix ramps austin coloring book. Air plant skateboard iceland, pok pok PBR&B letterpress dreamcatcher ramps umami vinyl semiotics.
+ [Turbo Tenant](https://www.turbotenant.com/), automates the rental management process. It provides tools to market rental listings, screen tenants, create lease agreements, and collect rent and damage deposit online. 
 
 
 ## Tech stack:
@@ -24,12 +23,14 @@ authors:
 
 
 
-## My role as the {roles} @ {comapmy name}
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## My role as the CTO @ Turbo Tenant
+I managed and recruited a full stack technical engineering team with 9 direct reports including 1:1s and professional development. My role was to set the vision for how technology would be used in the company. Ensured that the technological resources meet the company's short and long-term needs. Outlined the goals for research and development. Created timelines for the development and deployment of all technological services. Made executive decisions on behalf of the company's technological requirements. Acted as a mentor to team members. Maintained a consumer-focused outlook and aided in the delivery of IT projects to market. Managed technology budgets and time frames. R&D work to stay on top of technology trends and developments. Ensured all technology practices adhere to regulatory standards.
 
 
-## Platform Architecture
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
 
 ## KPI's
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+- Normalization of sprint burndown to be on the trend line
+- Lead time (task created and deployed) = 2 weeks
+- Net promoter score (NPS) < 7+
+- 80+ % code test coverage 
+- < 22k monthy rental payments 
