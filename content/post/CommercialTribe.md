@@ -11,8 +11,7 @@ authors:
 ---
 ---
 ## Company overview:
- [Handlebars templates](http://handlebarsjs.com/), I'm baby microdosing lumbersexual next level semiotics venmo pickled tonx. Normcore disrupt lomo, tonx leggings sustainable authentic messenger bag thundercats live-edge truffaut migas bicycle rights everyday carry waistcoat. Hella schlitz XOXO subway tile poutine chartreuse. Hammock la croix ramps austin coloring book. Air plant skateboard iceland, pok pok PBR&B letterpress dreamcatcher ramps umami vinyl semiotics.
-
+ [Commercial Tribe](https://www.commercialtribe.com/), is the market-leading Sales Management Intelligence platform that uses a data-driven approach to understand where managers spend their time to influence sales team health. Feel free to checkout the demo [here for a app tour](https://commercialtribe.tourial.com/product-tour-website)
 
 ## Tech stack:
   | Stack               |Infra                          |Other tooling & 3rd party                        |
@@ -22,12 +21,13 @@ authors:
   |MongoDB          |Protractor (testing)|Invision / Adobe XD|
 
 
-## My role as the {roles} @ {comapmy name}
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## My role as the  Director of Development @ Commercial Tribe
+Leading and managing a team of 12 fullstack team members, sprint planning, and SCRUM daily stand-up in all time zones. Liaison for cross-functional teams (engineering, product, design, sales, QA, VPE, CTO) Supervises daily activities, performance, and schedules for U.S., Argentina, and India development teams including onboarding, training and mentoring. Govern pull requests, documentation policies, and best practices. Daily active code contributor.
 
-
-## Platform Architecture
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
 
 ## KPI's
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+- Normalization of sprint burndown to be on the trend line
+- Lead time (task created and deployed) = 2 weeks
+- Net promoter score (NPS) < 7+
+- 80+ % code test coverage
+- Quarterly PI planning tasks completed 100% 
