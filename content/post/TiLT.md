@@ -16,8 +16,8 @@ authors:
   |Stack                |Infra                          |Other tooling & 3rd party                         |
   |----------------|-------------------------------|-----------------------------|
   |Typescript, Graphql|AWS (EKS, S3, SageMaker)            |Bamboo HR API           |
-  |React          |Docker/Kubernetes            |VGS SOC2 |
-  |RDS          |Google cloud Gdocs API's| Jira / Confluence|
+  |React          |Docker  Kubernetes            |VGS SOC2 |
+  |RDS          |Google cloud Gdocs API's| Jira  Confluence|
   |SageMaker Textract          || Figma|
   |          || Docusign SDK|
 
@@ -30,7 +30,7 @@ As the CTO of TiLT, and founding engineer, my role was focused on building out c
 
 
 ## Platform
-Creating GraphQL API'S with Node/Express Typescript to feed the frontend in React to solve for the follwing:
+Creating GraphQL API'S with Node Express Typescript to feed the frontend in React to solve for the follwing:
 - Company handbook ingestion 
 - Gather leave candidates' PII and employee info (payroll)
 - Generate all the necessary paperwork for FMLA leave

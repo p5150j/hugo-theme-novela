@@ -18,10 +18,10 @@ authors:
   |----------------|-------------------------------|-----------------------------|
   |Node.js, Typescript|AWS (EKS, S3. RDS, Athena)|Ethereum, Geth, Truffle            |
   |Graphql          |GCP (GKE, BigQuery)         |Bitcoind / Lightning network           |
-  |React          |Docker/Terraform/Ansible      |Grafana, and Prometheus |
+  |React          |Docker Terraform Ansible      |Grafana, and Prometheus |
   |Vue             |Apache Airflow               |0x protocol|
   |React-Native   |ELK (elasticsearch)| Sentry io|
-  |MYSQL          |Hadoop / Spark|Expo dev|
+  |MYSQL          |Hadoop  Spark|Expo dev|
   |Python          |Locust load testing |Jira / Confluence|
   |Golang          |Netlify (for static LMS sites)   |Figma|
   |Shell          | Circle CI   |Lattice|

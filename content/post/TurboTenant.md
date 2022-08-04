@@ -19,7 +19,7 @@ authors:
   |Ruby on Rails (migration)|Heroku (migration)           |SynapseFI            |
   |Node.js          |AWS (EB, S3)            |Transunion API (IDxp)           |
   |React         |Travis CI|Figma|
-  |Postgresql         |Redis|Jira / Confluence|
+  |Postgresql         |Redis|Jira  Confluence|
 
 
 

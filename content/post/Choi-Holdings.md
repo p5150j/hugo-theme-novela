@@ -29,7 +29,7 @@ As the VPE and Engineering Manager at Choi Holdings, my role revolved around cod
 - Architecture review and repo best practices  
  - Product and Technical roadmaps 
  - Technical story grooming and requirements gathering 
- - Code review (Frontend/Backend/iOS/Android/DevOps) 
+ - Code review (Frontend Backend iOS Android DevOps) 
  - IC work when needed 
  - UX Design iteration with the design team [MetaLabs](https://www.metalab.com/)
  - Story completion & validation
