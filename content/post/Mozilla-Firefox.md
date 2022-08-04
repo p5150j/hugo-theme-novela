@@ -2,7 +2,7 @@
 title: "Mozilla Firefox"
 date: 2022-07-19T12:05:29-06:00
 hero: https://images.unsplash.com/photo-1657885428171-0e164036a1f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80
-excerpt: IDaily individual contributor as a frontend and backned software engineer. Worked with project management and agile teams to deliver SaaS product offerings.
+excerpt: Daily individual contributor as a frontend and backned software engineer. Worked with project management and agile teams to deliver SaaS product offerings.
 
 timeToRead: 9
 authors:
