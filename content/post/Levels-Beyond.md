@@ -2,8 +2,8 @@
 title: "Levels Beyond - Enterprise video toolset"
 date: 2022-07-19T12:09:49-06:00
 hero: https://images.unsplash.com/photo-1612043071344-94c20c4c837e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
-excerpt: In this approach, I will be using Apple's native tooling to Generate 3D objects
-  from images using RealityKit Object Capture API.
+excerpt: Daily individual contributor as a frontend and backned software engineer. Worked with project management and agile teams to deliver SaaS product offerings.
+
 timeToRead: 9
 authors:
 - Patrick Ortell
@@ -11,7 +11,7 @@ authors:
 ---
 ---
 ## Company overview:
- [Handlebars templates](http://handlebarsjs.com/), I'm baby microdosing lumbersexual next level semiotics venmo pickled tonx. Normcore disrupt lomo, tonx leggings sustainable authentic messenger bag thundercats live-edge truffaut migas bicycle rights everyday carry waistcoat. Hella schlitz XOXO subway tile poutine chartreuse. Hammock la croix ramps austin coloring book. Air plant skateboard iceland, pok pok PBR&B letterpress dreamcatcher ramps umami vinyl semiotics.
+ [ Levels Beyond, ReachEngine](https://www.crunchbase.com/organization/levels-beyond), specializes in the fields of media management, media workflow, video library management, and video delivery. [ Signiant](https://www.signiant.com/reachengine/) acquired Levels Beyond in 2021.
 
 
 ## Tech stack:
@@ -26,12 +26,5 @@ authors:
 
 
 
-## My role as the {roles} @ {comapmy name}
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
-
-
-## Platform Architecture
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
-
-## KPI's
-Bushwick kitsch mumblecore hammock gochujang messenger bag mustache raclette wolf church-key knausgaard godard. Offal marfa lo-fi kickstarter try-hard. Man bun 90's pop-up, keffiyeh cronut live-edge meh. Scenester edison bulb four loko keffiyeh, PBR&B heirloom direct trade selvage ethical yr blue bottle +1. Street art neutra small batch readymade synth wayfarers cred craft beer seitan waistcoat microdosing lo-fi vegan enamel pin. Shabby chic helvetica kombucha woke.
+## My role as a Senior Engineer / Product owner @ Levels Beyond
+Daily individual contributor as a frontend and backned software engineer. Worked with project management and agile teams to deliver SaaS product offerings.
