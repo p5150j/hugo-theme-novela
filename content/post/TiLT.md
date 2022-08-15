@@ -10,7 +10,7 @@ authors:
 ---
 ---
 ## Company overview:
-[TiLT](https://hellotilt.co/), is an inclusive B2B Leave Management Solution for every life-changing moment. Managing leave of absence within federal government laws (FMLA Family and Medical Leave Act) and leave of absence payroll compensation. The goal at TiLT was/is to make your leave of absence of any kind (maternity, major illness, death in family) a smooth process.
+[TiLT](https://hellotilt.com/), is an inclusive B2B Leave Management Solution for every life-changing moment. Managing leave of absence within federal government laws (FMLA Family and Medical Leave Act) and leave of absence payroll compensation. The goal at TiLT was/is to make your leave of absence of any kind (maternity, major illness, death in family) a smooth process.
 
 ## Tech stack:
   |Stack                |Infra                          |Other tooling & 3rd party                         |
